@@ -33,6 +33,6 @@
 
 ## 3. Evidencia de Trabajo Colaborativo (Historial de Versiones)
 
-![Captura del historial de versiones](./img/historial.png)
+![Captura del historial de versiones](./img/historial_versiones.png)
 
-> **Explicación:** En la captura del historial de versiones de Google Docs se observa cómo todos los integrantes del Grupo 2 hemos estado editando y aportando cambios de forma simultánea entre las **10:05 y las 10:40** en un único documento compartido, sin necesidad de enviarnos archivos o versiones por correo electrónico.
+> **Explicación:** En la captura del historial de versiones de Google Docs se observa cómo todos los integrantes del Grupo 2 hemos estado editando y aportando cambios a lo largo de dos días en un único documento compartido, sin necesidad de enviarnos archivos o versiones por correo electrónico.
